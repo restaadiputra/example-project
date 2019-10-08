@@ -17,6 +17,7 @@ Each of the list is its own individual repo so you can clone and try them indivi
 ### Python Project 🐍
 
 - [Pokemon Scrapper](https://github.com/restaadiputra/pokedb-scraper) 😞
+- [Webpack Extractor](https://github.com/restaadiputra/sourcemap-extractor) 🧐
 
 ### Javascript Project 📃
 
